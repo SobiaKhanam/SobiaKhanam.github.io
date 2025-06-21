@@ -24,7 +24,11 @@
 A web application that allows users to upload an image and matches it against a stored database using facial recognition techniques. Designed to support identification and verification of marine crew members and enhance onboard personnel tracking and security.
 
 <em><strong>Skills:</strong> Python, face-recognition library, ML, Django</em>
-</p>
+<p><strong>3. Vessel Trajectory Cost Analysis</strong><br>
+<a href="https://colab.research.google.com/drive/1gynsAH69B2_nN6tCYLlS1_7eIbHzC5AH#scrollTo=YWCUkOfOXPIw" target="_blank">Project Link</a><br>
+Analyzed marine vessel trajectories to calculate the cost associated with each route based on spatial path deviations and distance metrics. Used clustering algorithms like DBSCAN to identify typical versus abnormal movement patterns, helping to detect inefficient or suspicious routes. The analysis aids in improving maritime navigation efficiency and monitoring route compliance.
+
+<em><strong>Skills:</strong> Google Colab, Python, NumPy, Pandas, Matplotlib, Scikit-learn (DBSCAN), Geospatial Analysis</em>
 </p>
     </td>
   </tr>
