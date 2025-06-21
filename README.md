@@ -2,7 +2,7 @@
   <tr>
     <td width="30%" align="center" valign="top" style="border: none;">
       <img src="/profile_pic.png" alt="Profile Picture" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;"><br>
-      <h2>Data Analyst</h2>
+      <p align="center"><h2>Data Analyst</h2></p>
       <p>
         <a href="mailto:sobiakhanam2000@gmail.com">Email</a> |
         <a href="https://linkedin.com/in/sobia-khanam" target="_blank">LinkedIn</a> |
@@ -25,7 +25,7 @@
   <li>Collaborated on integrating backend APIs with visualization dashboards by delivering structured and filtered outputs tailored for analysis.</li>
 </ul>
 
-<em><strong>Skills:</strong> Django, Python, REST API, PostgreSQL, Django ORM, Django REST Framework, Data Modeling</em>
+<em><strong>Skills:</strong> Django, Python, Pandas REST API, PostgreSQL, Django ORM, Django REST Framework, Data Modeling</em>
 </p>
     </td>
   </tr>
