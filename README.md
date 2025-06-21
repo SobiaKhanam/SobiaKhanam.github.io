@@ -1,22 +1,21 @@
 <table style="border: none;">
   <tr>
-    <td width="30%" align="center" valign="top" style="border: none;">
+    <td width="10%" align="center" valign="top" style="border: none;">
       <img src="/profile_pic.png" alt="Profile Picture" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;"><br>
-      <h2>Sobia Khanam</h2>
-      <p><strong>Data Analyst</strong></p>
-      <p>📧 <a href="mailto:sobiakhanam2000@gmail.com">sobiakhanam2000@gmail.com</a></p>
+      <h2>Data Analyst</h2>
       <p>
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="16" style="vertical-align: middle; margin-right: 4px;">
-        <a href="https://linkedin.com/in/sobia-khanam" target="_blank">linkedin.com/in/sobia-khanam</a>
-      </p>
+        <a href="mailto:sobiakhanam2000@gmail.com">Email</a> |
+        <a href="https://linkedin.com/in/sobia-khanam" target="_blank">LinkedIn</a> |
+        <a href="/Sobia Khanam - Resume.pdf" target="_blank">Resume</a>
+      <p>
     </td>
 
     <td width="70%" valign="top" style="border: none;">
 
       <h3>Work Experience</h3>
 
-      <p><strong>Data Analyst – ABC Corp</strong><br>
-      <em>Jan 2022 – Present</em><br>
+      <p><strong>Research Officer – Naval Research and Development Institute</strong><br>
+      <em>Jul 2023 – Feb 202</em><br>
       • Built dashboards using Power BI & Python<br>
       • Analyzed vessel movement and port trends<br>
       • Automated ETL pipelines using Pandas</p>
