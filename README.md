@@ -14,17 +14,21 @@
 
       <h3>Projects</h3>
         <p><strong>1. Data Analysis and Decision Support System</strong><br>
-            <a href="https://github.com/SobiaKhanam/pmsa_dadss_backend" target="_blank">GitHub Repository</a><br>
-            A Django-based backend system built to support real-time vessel monitoring and decision-making. I developed the core <strong>views functions</strong> responsible for filtering data based on ports, flags, timestamps, and vessel types. The system processed marine traffic data and exposed REST endpoints for dashboard visualization and analytics.<br>
-          <em><strong>Key Contributions:</strong></em>
-          <ul>
-            <li>Developed custom <code>views.py</code> logic for real-time data queries and API responses</li>
-            <li>Integrated filtering based on port, flag, timestamp, and vessel type</li>
-            <li>Implemented Django REST endpoints for data retrieval and dashboard feeding</li>
-            <li>Handled database models and serializers for large CSV-based ingestion</li>
-          </ul>
-          <em><strong>Skills:</strong> Django, Python, REST API, PostgreSQL, Pandas</em>
-        </p>
+            <a href="https://github.com/SobiaKhanam/pmsa_dadss_backend/ais" target="_blank">Project Link</a><br>
+            The DADSS project is a Django-based backend platform designed to support marine surveillance, policy-making, and operational decisions by analyzing real-time vessel movement data. It enables stakeholders to monitor vessel traffic, assess port activity, and identify patterns using structured filtering, historical trends, and automated insights. The system processes large-scale marine datasets and exposes them through RESTful APIs to feed into dashboards and visualizations.
+
+<strong>My Contribution:</strong><br>
+As the backend developer, I built the core architecture of the system by following Django’s modular structure:
+<ul>
+  <li><strong>Models:</strong> Designed Django ORM models to structure and store vessel movement, port metadata, and country information, optimizing them for large-volume ingestion from external CSV sources.</li>
+  <li><strong>URLs:</strong> Configured clean and scalable routing using Django's URL dispatcher to handle multiple API endpoints for various data filters (e.g., by flag, port, timestamp).</li>
+  <li><strong>Views:</strong> Implemented function-based views to handle dynamic data queries, filter vessel data based on real-time attributes, and return structured JSON responses for frontend integration.</li>
+  <li><strong>Serializers:</strong> Utilized Django REST Framework to serialize model data and enable seamless API consumption.</li>
+  <li><strong>Data Handling:</strong> Wrote scripts to parse and ingest large datasets into PostgreSQL, ensuring robust data validation and efficient query performance.</li>
+</ul>
+
+<em><strong>Skills:</strong> Django, Python, REST API, PostgreSQL, Django ORM, Django REST Framework, Data Modeling</em>
+</p>
     </td>
   </tr>
 </table>
