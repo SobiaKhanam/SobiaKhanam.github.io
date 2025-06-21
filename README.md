@@ -25,7 +25,7 @@
   <li>Collaborated on integrating backend APIs with visualization dashboards by delivering structured and filtered outputs tailored for analysis.</li>
 </ul>
 
-<em><strong>Skills:</strong> Django, Python, Pandas REST API, PostgreSQL, Django ORM, Django REST Framework, Data Modeling</em>
+<em><strong>Skills:</strong> Django, Python, Pandas, REST API, PostgreSQL, Django ORM, Django REST Framework, Data Modeling</em>
 </p>
     </td>
   </tr>
