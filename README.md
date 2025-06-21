@@ -13,8 +13,9 @@
     <td width="70%" valign="top" style="border: none;">
 
       <h3>Projects</h3>
-        <p><strong>1. <a href="https://github.com/yourusername/data-decision-support" target="_blank">Data Analysis and Decision Support System</a></strong><br>
-          A Django-based backend system designed to support decision-making through real-time vessel monitoring, data filtering, and analytics. I worked primarily on the backend where I built efficient <strong>views functions</strong> to handle filtering, routing logic, and data aggregation. The system was developed to provide actionable insights from large marine datasets.<br>
+        <p><strong>1. Data Analysis and Decision Support System</strong><br>
+            <a href="https://github.com/SobiaKhanam/pmsa_dadss_backend" target="_blank">GitHub Repository</a><br>
+            A Django-based backend system built to support real-time vessel monitoring and decision-making. I developed the core <strong>views functions</strong> responsible for filtering data based on ports, flags, timestamps, and vessel types. The system processed marine traffic data and exposed REST endpoints for dashboard visualization and analytics.<br>
           <em><strong>Key Contributions:</strong></em>
           <ul>
             <li>Developed custom <code>views.py</code> logic for real-time data queries and API responses</li>
