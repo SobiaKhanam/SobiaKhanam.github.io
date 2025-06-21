@@ -1,6 +1,6 @@
 <table style="border: none;">
   <tr>
-    <td width="10%" align="center" valign="top" style="border: none;">
+    <td width="40%" align="center" valign="top" style="border: none;">
       <img src="/profile_pic.png" alt="Profile Picture" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;"><br>
       <h2>Data Analyst</h2>
       <p>
