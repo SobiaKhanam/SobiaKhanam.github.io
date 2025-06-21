@@ -18,6 +18,13 @@
             The DADSS project is a Django-based backend platform designed to support marine surveillance, policy-making, and operational decisions by analyzing real-time vessel movement data. It enables stakeholders to monitor vessel traffic, assess port activity, and identify patterns using structured filtering, historical trends, and automated insights. The system processes large-scale marine datasets and exposes them through RESTful APIs to feed into dashboards and visualizations.
 
 <em><strong>Skills:</strong> Django, Python, Pandas, REST API, PostgreSQL, Django ORM, Django REST Framework, Data Modeling</em>
+
+<p><strong>2. Face Recognition Web-Based System</strong><br>
+<a href="https://github.com/yourusername/face-recognition-webapp" target="_blank">GitHub Repository</a><br>
+A web application that allows users to upload an image and matches it against a stored database using facial recognition techniques. Designed to support identification and verification of marine crew members and enhance onboard personnel tracking and security.
+
+<em><strong>Skills:</strong> Python, face-recognition library, ML, Django</em>
+</p>
 </p>
     </td>
   </tr>
