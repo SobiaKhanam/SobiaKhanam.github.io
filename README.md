@@ -34,7 +34,7 @@
 
     <p><strong>4. Fishing Activity Heatmap using Gaussian KDE</strong><br>
     <a href="https://colab.research.google.com/drive/1NHQVwAi3q2smjPXcJb-1LAZSPSMu-32h#scrollTo=KALa-2OU61Ih" target="_blank">Project Link</a><br>
-    Developed an interactive heatmap from scratch to visualize fishing activity density using Gaussian Kernel Density Estimation (KDE). The project leverages geospatial vessel data to highlight fishing hotspots. A dynamic legend was implemented, allowing users to control key visualization parameters such as threshold and radius, providing customizable insights for maritime surveillance and decision-making.
+    Developed an interactive heatmap from scratch to visualize fishing activity density using Gaussian Kernel Density Estimation (KDE). The project leverages geospatial vessel data to highlight fishing hotspots. A dynamic legend was implemented, allowing users to control key visualization parameters such as threshold and radius, providing customizable insights for maritime surveillance and decision-making.<br>
 
     <em><strong>Skills:</strong> Google Colab, Python, Matplotlib, Pandas, NumPy, Seaborn, KDE, Data Visualization, Geospatial Analysis, Folium</em>
     </p>
