@@ -14,7 +14,7 @@
 
       <h3>Projects</h3>
         <p><strong>1. Data Analysis and Decision Support System</strong><br>
-            <a href="https://github.com/SobiaKhanam/pmsa_dadss_backend/ais" target="_blank">Project Link</a><br>
+            <a href="https://github.com/SobiaKhanam/pmsa_dadss_backend/tree/main/ais" target="_blank">Project Link</a><br>
             The DADSS project is a Django-based backend platform designed to support marine surveillance, policy-making, and operational decisions by analyzing real-time vessel movement data. It enables stakeholders to monitor vessel traffic, assess port activity, and identify patterns using structured filtering, historical trends, and automated insights. The system processes large-scale marine datasets and exposes them through RESTful APIs to feed into dashboards and visualizations.
 
 <strong>My Contribution:</strong><br>
