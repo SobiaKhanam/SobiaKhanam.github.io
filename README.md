@@ -41,7 +41,7 @@
 
     <p><strong>5. Statistical Analysis of Global Fishing Watch Data</strong><br>
     <a href="https://colab.research.google.com/drive/1QvV3rf3sV9HctQlMKFn37tlSPcNQLpWz" target="_blank">Project Link</a><br>
-Conducted an in-depth statistical analysis of vessel movement data from Global Fishing Watch to extract meaningful insights about global fishing activity. Explored distributions of unique vessels, vessel types, and activity frequency using Python's data analysis and visualization libraries. The analysis revealed trends in fishing intensity, operational zones, and vessel diversity, supporting marine research and policy development.
+Conducted an in-depth statistical analysis of vessel movement data from Global Fishing Watch to extract meaningful insights about global fishing activity. Explored distributions of unique vessels, vessel types, and activity frequency using Python's data analysis and visualization libraries. The analysis revealed trends in fishing intensity, operational zones, and vessel diversity, supporting marine research and policy development.<br>
 
 <em><strong>Skills:</strong> Python, Pandas, Matplotlib, Seaborn, Data Cleaning, Descriptive Statistics, Exploratory Data Analysis</em>
     </p>
