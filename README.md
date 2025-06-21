@@ -2,7 +2,7 @@
   <tr>
     <td width="30%" align="center" valign="top" style="border: none;">
       <img src="/profile_pic.png" alt="Profile Picture" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;"><br>
-      <p align="center"><h2>Data Analyst</h2></p>
+      <p align="center"><h2>  Data Analyst</h2></p>
       <p>
         <a href="mailto:sobiakhanam2000@gmail.com">Email</a> |
         <a href="https://linkedin.com/in/sobia-khanam" target="_blank">LinkedIn</a> |
