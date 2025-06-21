@@ -30,6 +30,7 @@ Analyzed marine vessel trajectories to calculate the cost associated with each r
 
 <em><strong>Skills:</strong> Google Colab, Python, NumPy, Pandas, Matplotlib, Scikit-learn (DBSCAN), Geospatial Analysis</em>
 </p>
+</p>
     </td>
   </tr>
 </table>
