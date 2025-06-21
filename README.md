@@ -1,13 +1,13 @@
 <table style="border: none;">
   <tr>
-    <td width="40%" align="center" valign="top" style="border: none;">
-      <img src="/profile_pic.png" alt="Profile Picture" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;"><br>
+    <td width="30%" align="center" valign="top" style="border: none;">
+      <img src="/profile_pic.png" alt="Profile Picture" style="border-radius: 50%; width: 180px; height: 180px; object-fit: cover;"><br>
       <h2>Data Analyst</h2>
       <p>
         <a href="mailto:sobiakhanam2000@gmail.com">Email</a> |
         <a href="https://linkedin.com/in/sobia-khanam" target="_blank">LinkedIn</a> |
         <a href="/SOBIA KHANAM - RESUME.pdf" target="_blank">Resume</a>
-      <p>
+      </p>
     </td>
 
     <td width="70%" valign="top" style="border: none;">
