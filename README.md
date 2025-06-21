@@ -20,7 +20,7 @@
 <em><strong>Skills:</strong> Django, Python, Pandas, REST API, PostgreSQL, Django ORM, Django REST Framework, Data Modeling</em>
 
 <p><strong>2. Face Recognition Web-Based System</strong><br>
-<a href="https://github.com/yourusername/face-recognition-webapp" target="_blank">GitHub Repository</a><br>
+<a href="https://github.com/SobiaKhanam/pmsa_dadss_backend/tree/main/face_detection" target="_blank">Project Link</a><br>
 A web application that allows users to upload an image and matches it against a stored database using facial recognition techniques. Designed to support identification and verification of marine crew members and enhance onboard personnel tracking and security.
 
 <em><strong>Skills:</strong> Python, face-recognition library, ML, Django</em>
