@@ -20,10 +20,10 @@
     <em><strong>Skills:</strong> Django, Python, Pandas, REST API, PostgreSQL, Django ORM, Django REST Framework, Data Modeling</em>
     </p>
     
-    <p><strong>2. Maritime Vessel Analysis using DAX Queries</strong><br>
+   <p><strong>2. Power BI Maritime Vessel Dashboard with DAX Exploration</strong><br>
     <a href="https://github.com/SobiaKhanam/PowerBI-Dashboard" target="_blank">Project Link</a><br>
-    Built a series of industry-relevant DAX queries in Power BI's Query View to explore maritime vessel activity from a structured dataset. The analysis includes year-on-year growth, monthly active vessels, flag-wise vessel distribution, and vessel type breakdowns. Queries are designed for data exploration and storytelling without relying on visuals, showcasing strong command of data modeling and query logic within Power BI.<br>
-    <em><strong>Skills:</strong> Power BI, DAX Query View, Data Exploration, Time Series Analysis, Grouping & Aggregation, Year-over-Year Growth, Geospatial Insights, Maritime Data Analytics</em>
+    Designed a comprehensive Power BI dashboard to analyze maritime vessel activity using real-world geospatial and temporal data. The dashboard visualizes key metrics including vessel types, flag distribution, fishing trip counts, and average vessel speed. An interactive map plots fishing zones using latitude and longitude. Alongside, a set of DAX queries were implemented in Query View for deeper data exploration—covering yearly trends, monthly activity, flag-wise summaries, and vessel-type breakdowns.<br>
+    <em><strong>Skills:</strong> Power BI, DAX, Data Visualization, Time Series Analysis, Dashboard Design, Query View, Geospatial Analytics, AIS Data</em>
     </p>
 
     <p><strong>3. Face Recognition Web-Based System</strong><br>
