@@ -34,8 +34,8 @@
     
     <p><strong>4. Vessel Trajectory Cost Analysis</strong><br>
     <a href="https://colab.research.google.com/drive/1gynsAH69B2_nN6tCYLlS1_7eIbHzC5AH#scrollTo=YWCUkOfOXPIw" target="_blank">Project Link</a><br>
-    Analyzed marine vessel trajectories to calculate the cost associated with each route based on spatial path deviations and distance metrics. Used clustering algorithms like DBSCAN to identify typical versus abnormal movement patterns, helping to detect inefficient or suspicious routes. The analysis aids in improving maritime navigation efficiency and monitoring route compliance.<br>
-    <em><strong>Skills:</strong> Google Colab, Python, NumPy, Pandas, Matplotlib, Scikit-learn (DBSCAN), Geospatial Analysis</em>
+    Analyzed marine vessel trajectories to calculate a cost metric for each route by evaluating spatial grid visitation frequencies and path deviations. Developed a method that assigns higher cost to less frequently traveled maritime grids, helping to identify unusual or inefficient vessel routes. The analysis supports improved maritime navigation efficiency and enhanced monitoring of vessel movement patterns through interactive visualizations on geographic maps.<br>
+    <em><strong>Skills:</strong> Google Colab, Python, NumPy, Pandas, Matplotlib, Geospatial Analysis</em>
     </p>
 
     <p><strong>5. Fishing Activity Heatmap using Gaussian KDE</strong><br>
