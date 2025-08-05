@@ -6,7 +6,7 @@
       <p>
         <a href="mailto:sobiakhanam2000@gmail.com">Email</a> |
         <a href="https://linkedin.com/in/sobia-khanam" target="_blank">LinkedIn</a> |
-        <a href="/SOBIA KHANAM - RESUME.pdf" target="_blank">Resume</a>
+        <a href="/Sobia Khanam - Work Portfolio.pdf" target="_blank">Work Highlights</a>
       </p>
     </td>
 
