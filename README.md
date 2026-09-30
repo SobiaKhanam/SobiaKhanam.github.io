@@ -18,7 +18,7 @@
     <a href="https://github.com/SobiaKhanam/GIS-Analysis-Web-Mapping-City-of-Hamilton" target="_blank">Project Link</a><br>
     Developed a GIS-based web mapping project using City of Hamilton open data to analyze the distribution of parks and sports facilities across municipal wards. Prepared and spatially joined park and sports field datasets, created ward-level recreation metrics, and designed interactive ArcGIS visualizations with thematic layers, filters, and analytical pop-ups.
     <br>
-    <em><strong>Skills:</strong>ArcGIS Location Platform & Web Mapping, GIS Data Preparation & Visualization, Spatial Joins & Spatial Relationships, Point & Polygon Feature Analysis, Thematic Mapping, Layer Symbology, Pop-ups, GeoJSON, Python, GeoPandas & Pandas</em>
+    <em><strong>Skills:</strong> ArcGIS Location Platform & Web Mapping, GIS Data Preparation & Visualization, Spatial Joins & Spatial Relationships, Point & Polygon Feature Analysis, Thematic Mapping, Layer Symbology, Pop-ups, GeoJSON, Python, GeoPandas & Pandas</em>
     </p>
     
     <p><strong>2. Data Analysis and Decision Support System</strong><br>
