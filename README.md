@@ -53,7 +53,7 @@
 
     <p><strong>7. Object-Following Robot using Jetson Nano</strong><br>
     <a href="https://github.com/SobiaKhanam/Object-Following-Robot" target="_blank">Project Link</a><br>
-Designed and developed an object-following robot as part of a Computer Vision course project, leveraging the Jetson Nano platform and OpenCV library. The system uses live video feed to detect and track a target object in real-time, adjusting motor control to follow its movement. This project showcases the integration of AI-based vision with embedded hardware for intelligent robotic behavior.<br>
+Developed as part of a research project during my internship at TTL, this project explored the integration of computer vision and embedded systems to build a mobile robot capable of detecting and following a colored target. Using Python, OpenCV, and NVIDIA Jetson Nano, the system processes live camera input and translates the target's position into motor-control commands.<br>
   <em><strong>Skills:</strong> Jetson Nano, OpenCV, Python, Computer Vision, Real-time Object Tracking, Embedded Systems</em>
     </p>
     </td>
